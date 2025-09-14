@@ -1,0 +1,6 @@
+Things worth adding to the original file chapter 1:
+
+• No Free Lunch Theorem:
+        ◦ There is no universal best search algorithm.
+        ◦ Algorithm effectiveness depends on the specific problem and how it is formulated.
+        ◦ Requires problem-specific tailoring for optimal performance.
